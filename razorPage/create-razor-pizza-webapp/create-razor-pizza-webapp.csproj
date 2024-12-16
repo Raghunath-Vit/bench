@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+<!-- This page has code for all the dependency which is being required for the project and the versions needed -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>create_razor_pizza_webapp</RootNamespace>
+  </PropertyGroup>
+
+</Project>
+
