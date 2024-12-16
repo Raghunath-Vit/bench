@@ -1,0 +1,32 @@
+{
+  "opinions": [
+    {
+      "id": 1734343705587,
+      "votes": 10,
+      "userName": "Mannu",
+      "title": "useFormStatus",
+      "body": "Is useFormStatus came in v19"
+    },
+    {
+      "id": 1734342997945,
+      "votes": 2,
+      "userName": "Raghunath Singh",
+      "title": "React",
+      "body": "Working in React is Awesome"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
